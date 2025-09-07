@@ -1,7 +1,31 @@
-# Build and Deploy a Full Stack MERN AI Image Generation App  MidJourney & DALL E Clone
-![Image Generation App](https://i.ibb.co/p0f27C2/Thumbnail-9.png)
+# MERN AI Image Generator (MidJourney & DALL·E Clone)
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+A full-stack **AI image generation app** built with the MERN stack and OpenAI’s DALL·E API.  
+Users can generate images from text prompts, download them, and share with others.  
 
-### Launch your development career with project-based coaching - https://www.jsmastery.pro
+---
+
+## ✨ Features
+- Text-to-image generation with OpenAI API  
+- MERN stack (MongoDB, Express, React, Node.js)  
+- Cloudinary for image hosting  
+- Responsive UI with Tailwind CSS  
+- Share & download images  
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** React, Tailwind, Vite  
+- **Backend:** Node.js, Express  
+- **Database:** MongoDB  
+- **AI API:** OpenAI DALL·E  
+- **Hosting:** Vercel / Netlify (frontend), Render (backend)  
+
+---
+
+## ⚙️ Setup
+
+1. Clone repo:
+```bash
+git clone https://github.com/your-username/visionai.git
+cd visionai
